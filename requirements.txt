@@ -1,0 +1,8 @@
+os
+binascii
+hashlib
+base58
+ecdsa
+asyncio
+aiohttp
+colorama
